@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #ffffff; }
+body {
+  width: 720pt; height: 405pt; margin: 0; padding: 0;
+  background: #FFFFFF; font-family: Arial, sans-serif;
+  display: flex; flex-direction: column;
+}
+.header {
+  background: #2C5F7A; padding: 22pt 40pt;
+  border-left: 8pt solid #FF6B35;
+}
+h1 {
+  color: #FFFFFF; font-size: 34pt; margin: 0;
+  font-weight: bold;
+}
+.content {
+  padding: 20pt 40pt 40pt 40pt; flex: 1;
+}
+.intro {
+  background: #E8E8E8; padding: 12pt;
+  border-radius: 8pt; margin-bottom: 14pt;
+  border-left: 6pt solid #FF6B35;
+}
+.intro p {
+  color: #2D3748; font-size: 14pt; margin: 0;
+  line-height: 1.25;
+}
+.code-box {
+  background: #2D3748; padding: 14pt;
+  border-radius: 8pt; margin-bottom: 12pt;
+  font-family: 'Courier New', monospace;
+}
+.code-box p {
+  color: #E8E8E8; font-size: 12pt; margin: 0 0 6pt 0;
+  line-height: 1.35;
+}
+.code-box .comment {
+  color: #8BC34A;
+}
+.code-box .keyword {
+  color: #FF6B35;
+}
+.code-box .string {
+  color: #64B5F6;
+}
+.features {
+  display: flex; gap: 16pt;
+}
+.feature-box {
+  flex: 1; background: #FFE5DC;
+  padding: 13pt; border-radius: 6pt;
+  text-align: center;
+}
+.feature-box p {
+  color: #2D3748; font-size: 13pt; margin: 0;
+  font-weight: bold;
+}
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>Demo: DXF Skill</h1>
+</div>
+<div class="content">
+  <div class="intro">
+    <p><b>ตัวอย่าง:</b> Skill สำหรับสร้างและแปลงไฟล์ DXF</p>
+  </div>
+  <div class="code-box">
+    <p class="comment"># วิธีเรียกใช้ DXF Skill</p>
+    <p><span class="keyword">python</span> scripts/dxf_helper.py \</p>
+    <p>  create floor_plan.dxf \</p>
+    <p>  --width <span class="string">10</span> \</p>
+    <p>  --height <span class="string">8</span></p>
+  </div>
+  <div class="features">
+    <div class="feature-box">
+      <p>📐 สร้างแปลน</p>
+    </div>
+    <div class="feature-box">
+      <p>🔄 แปลงรูปแบบ</p>
+    </div>
+    <div class="feature-box">
+      <p>✏️ วาดอัตโนมัติ</p>
+    </div>
+    <div class="feature-box">
+      <p>💾 Export CAD</p>
+    </div>
+  </div>
+</div>
+</body>
+</html>

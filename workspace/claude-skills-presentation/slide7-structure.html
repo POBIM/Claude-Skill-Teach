@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #ffffff; }
+body {
+  width: 720pt; height: 405pt; margin: 0; padding: 0;
+  background: #FFFFFF; font-family: Arial, sans-serif;
+  display: flex; flex-direction: column;
+}
+.header {
+  background: #2C5F7A; padding: 22pt 40pt;
+  border-left: 8pt solid #FF6B35;
+}
+h1 {
+  color: #FFFFFF; font-size: 34pt; margin: 0;
+  font-weight: bold;
+}
+.content {
+  padding: 18pt 40pt 40pt 40pt; flex: 1;
+  display: flex; gap: 25pt;
+}
+.file-tree {
+  flex: 1;
+  background: #2D3748; padding: 18pt;
+  border-radius: 8pt; font-family: 'Courier New', monospace;
+  border-left: 6pt solid #FF6B35;
+}
+.file-tree p {
+  color: #E8E8E8; font-size: 14pt; margin: 0 0 5pt 0;
+  line-height: 1.3;
+}
+.file-tree .folder {
+  color: #FF6B35; font-weight: bold;
+}
+.file-tree .file {
+  color: #FFFFFF;
+}
+.description {
+  flex: 1;
+}
+.description h2 {
+  color: #2C5F7A; font-size: 19pt; margin: 0 0 12pt 0;
+  font-weight: bold;
+}
+.file-desc {
+  margin-bottom: 12pt;
+}
+.file-desc h3 {
+  color: #FF6B35; font-size: 14pt; margin: 0 0 4pt 0;
+  font-weight: bold; font-family: 'Courier New', monospace;
+}
+.file-desc p {
+  color: #2D3748; font-size: 13pt; margin: 0;
+  line-height: 1.25;
+}
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>โครงสร้างไฟล์ Skill</h1>
+</div>
+<div class="content">
+  <div class="file-tree">
+    <p class="folder">.claude/skills/</p>
+    <p class="folder">  └─ my-skill/</p>
+    <p class="file">      ├─ skill.md</p>
+    <p class="file">      └─ scripts/</p>
+    <p class="file">          └─ helper.py</p>
+  </div>
+  <div class="description">
+    <h2>ไฟล์สำคัญ</h2>
+    <div class="file-desc">
+      <h3>skill.md</h3>
+      <p>ไฟล์หลัก อธิบายว่า Skill ทำอะไร และใช้งานอย่างไร</p>
+    </div>
+    <div class="file-desc">
+      <h3>scripts/</h3>
+      <p>โฟลเดอร์เก็บโค้ด Python, JavaScript หรือภาษาอื่นๆ</p>
+    </div>
+    <div class="file-desc">
+      <h3>helper.py</h3>
+      <p>ตัวอย่างสคริปต์ช่วยทำงาน</p>
+    </div>
+  </div>
+</div>
+</body>
+</html>

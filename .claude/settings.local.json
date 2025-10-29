@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(\"C:\\Users\\Predator\\AppData\\Local\\Programs\\Python\\Python312\\python.exe\" scripts/boq_helper.py create test_boq.xlsx \"โครงการปรับปรุงสำนักงาน\" \"กรุงเทพมหานคร\" \"กรม...\")",
+      "Bash(move:*)",
+      "Bash(mv:*)",
+      "Bash(for skill in \"D:\\Git\\Claude Skill Teach\\.claude\\skills\"/*)",
+      "Bash(head:*)",
+      "Bash(done)",
+      "Bash(for dir in docx pdf pptx xlsx skill-creator)",
+      "Bash(do echo \"=== $dir ===\")",
+      "Skill(pptx)",
+      "Bash(mkdir:*)",
+      "Bash(node create-presentation.js:*)",
+      "Bash(node:*)",
+      "Bash(where:*)",
+      "Bash(\"C:\\Program Files\\nodejs\\node.exe\" \"D:\\Git\\Claude Skill Teach\\workspace\\claude-skills-presentation\\create-presentation.js\")",
+      "Bash(npm root:*)",
+      "Bash(set NODE_PATH=C:UsersPredatorAppDataRoamingnpmnode_modules)",
+      "Read(//c/Users/Predator/AppData/Roaming/npm/node_modules/**)",
+      "Bash(npm install)",
+      "Bash(npm run create:*)",
+      "Bash(npx playwright:*)",
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(timeout 180 npm run create:*)",
+      "Bash(python scripts/thumbnail.py:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #ffffff; }
+body {
+  width: 720pt; height: 405pt; margin: 0; padding: 0;
+  background: #FFFFFF; font-family: Arial, sans-serif;
+  display: flex; flex-direction: column;
+}
+.header {
+  background: #2C5F7A; padding: 22pt 40pt;
+  border-left: 8pt solid #FF6B35;
+}
+h1 {
+  color: #FFFFFF; font-size: 34pt; margin: 0;
+  font-weight: bold;
+}
+.content {
+  padding: 17pt 40pt 40pt 40pt; flex: 1;
+}
+.step {
+  display: flex; align-items: flex-start;
+  margin-bottom: 10pt; gap: 10pt;
+}
+.step-number {
+  background: #FF6B35; color: #FFFFFF;
+  width: 28pt; height: 28pt; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+}
+.step-number p {
+  font-size: 15pt; font-weight: bold; margin: 0;
+  color: #FFFFFF;
+}
+.step-content {
+  flex: 1; padding-top: 1pt;
+}
+.step-content h2 {
+  color: #2C5F7A; font-size: 17pt; margin: 0 0 3pt 0;
+  font-weight: bold;
+}
+.step-content p {
+  color: #2D3748; font-size: 14pt; margin: 0;
+  line-height: 1.2;
+}
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>ขั้นตอนการสร้าง Skill</h1>
+</div>
+<div class="content">
+  <div class="step">
+    <div class="step-number"><p>1</p></div>
+    <div class="step-content">
+      <h2>กำหนดจุดประสงค์</h2>
+      <p>Skill นี้จะทำอะไร? แก้ปัญหาอะไร?</p>
+    </div>
+  </div>
+  <div class="step">
+    <div class="step-number"><p>2</p></div>
+    <div class="step-content">
+      <h2>ออกแบบโครงสร้าง</h2>
+      <p>ต้องการ input อะไร? output เป็นอะไร?</p>
+    </div>
+  </div>
+  <div class="step">
+    <div class="step-number"><p>3</p></div>
+    <div class="step-content">
+      <h2>บอก Claude Code</h2>
+      <p>อธิบายให้ Claude รู้ว่าต้องการอะไร</p>
+    </div>
+  </div>
+  <div class="step">
+    <div class="step-number"><p>4</p></div>
+    <div class="step-content">
+      <h2>ทดสอบและปรับแต่ง</h2>
+      <p>ลองใช้งานจริง แล้วปรับให้ดีขึ้น</p>
+    </div>
+  </div>
+  <div class="step">
+    <div class="step-number"><p>5</p></div>
+    <div class="step-content">
+      <h2>ใช้งานซ้ำได้</h2>
+      <p>เรียกใช้ Skill ได้ทุกเมื่อที่ต้องการ</p>
+    </div>
+  </div>
+</div>
+</body>
+</html>

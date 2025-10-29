@@ -1,0 +1,14 @@
+{
+  "name": "claude-skills-presentation",
+  "version": "1.0.0",
+  "description": "Claude Skills for Construction Tutorial Presentation",
+  "main": "create-presentation.js",
+  "scripts": {
+    "create": "node create-presentation.js"
+  },
+  "dependencies": {
+    "pptxgenjs": "^3.12.0",
+    "playwright": "^1.40.0",
+    "sharp": "^0.33.0"
+  }
+}
