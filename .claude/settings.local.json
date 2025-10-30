@@ -25,7 +25,17 @@
       "Bash(npm init:*)",
       "Bash(npm install:*)",
       "Bash(timeout 180 npm run create:*)",
-      "Bash(python scripts/thumbnail.py:*)"
+      "Bash(python scripts/thumbnail.py:*)",
+      "Skill(skill-creator)",
+      "Skill(boq)",
+      "Bash(python:*)",
+      "Skill(pdf)",
+      "mcp__ide__executeCode",
+      "Skill(docx)",
+      "Bash(pandoc:*)",
+      "Bash(pip install:*)",
+      "Bash(\"C:\\Users\\Predator\\AppData\\Local\\Programs\\Python\\Python312\\python.exe\" \"D:\\Git\\Claude Skill Teach\\.claude\\skills\\docx\\ooxml\\scripts\\unpack.py\" \"D:\\Git\\Claude Skill Teach\\BOQ family.docx\" \"D:\\Git\\Claude Skill Teach\\boq_unpacked\")",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []

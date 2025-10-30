@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #ffffff; }
+body {
+  width: 720pt; height: 405pt; margin: 0; padding: 0;
+  background: #f8f9fa; font-family: Arial, sans-serif; display: flex; flex-direction: column;
+}
+.header {
+  background: #2B8A8A; color: #ffffff; padding: 16pt 40pt;
+}
+.header h1 { margin: 0; font-size: 26pt; font-weight: bold; }
+.content { padding: 18pt 40pt 40pt 40pt; flex: 1; }
+.metadata-box {
+  background: #ffffff; padding: 12pt; border: 2pt solid #1C2833; border-radius: 4pt;
+  margin-bottom: 10pt;
+}
+.metadata-box h3 {
+  margin: 0 0 6pt 0; color: #2B8A8A; font-size: 12pt; font-weight: bold; padding-bottom: 4pt;
+}
+.metadata-box p {
+  margin: 0; color: #555555; font-size: 11pt; line-height: 1.3;
+}
+.example {
+  background: #f0f7f7; padding: 8pt; font-family: 'Courier New', monospace;
+  font-size: 10pt; color: #1C2833; margin-top: 4pt; border-left: 3pt solid #E8A537;
+}
+.example p { margin: 0; }
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>ขั้นตอนที่ 3: สร้าง Metadata Files</h1>
+</div>
+<div class="content">
+  <div class="metadata-box">
+    <h3>skill.md (REQUIRED)</h3>
+    <p>อธิบาย skill, ความสามารถ, วิธีใช้</p>
+    <div class="example"><p>---
+name: boq
+description: "BOQ creation..."
+---
+# BOQ Skill Documentation</p></div>
+  </div>
+  <div class="metadata-box">
+    <h3>README.md (RECOMMENDED)</h3>
+    <p>โครงสร้าง folder, วิธีการสร้าง, best practices</p>
+  </div>
+  <div class="metadata-box">
+    <h3>BEST_PRACTICES.md (OPTIONAL)</h3>
+    <p>แนวทางการใช้งาน, tips & tricks, guidelines</p>
+  </div>
+</div>
+</body>
+</html>

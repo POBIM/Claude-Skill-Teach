@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #ffffff; }
+body {
+  width: 720pt; height: 405pt; margin: 0; padding: 0;
+  background: #f8f9fa; font-family: Arial, sans-serif; display: flex; flex-direction: column;
+}
+.header {
+  background: #2B8A8A; color: #ffffff; padding: 16pt 40pt;
+}
+.header h1 { margin: 0; font-size: 26pt; font-weight: bold; }
+.content { padding: 18pt 40pt 40pt 40pt; flex: 1; }
+.practices {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 12pt;
+}
+.practice {
+  background: #ffffff; padding: 10pt 12pt; border-left: 4pt solid #E8A537;
+  border-radius: 3pt;
+}
+.practice h3 {
+  margin: 0 0 4pt 0; color: #1C2833; font-size: 12pt; font-weight: bold;
+}
+.practice ul {
+  margin: 6pt 0; padding-left: 16pt; color: #555555;
+}
+.practice li {
+  font-size: 10pt; margin-bottom: 2pt; line-height: 1.2;
+}
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>Best Practices สำหรับสร้าง Skill</h1>
+</div>
+<div class="content">
+  <div class="practices">
+    <div class="practice">
+      <h3>Code Structure</h3>
+      <ul>
+        <li>แยก logic ออกจากทำงาน</li>
+        <li>ใช้ functions ที่มี purpose ชัดเจน</li>
+        <li>ทำ modular & reusable</li>
+        <li>Comment code ที่ซับซ้อน</li>
+      </ul>
+    </div>
+    <div class="practice">
+      <h3>Documentation</h3>
+      <ul>
+        <li>อธิบาย features ทั้งหมด</li>
+        <li>ให้ usage examples</li>
+        <li>ระบุ requirements</li>
+        <li>อัพเดท README ปกติ</li>
+      </ul>
+    </div>
+    <div class="practice">
+      <h3>Testing & Validation</h3>
+      <ul>
+        <li>ทดสอบ edge cases</li>
+        <li>ตรวจสอบ output quality</li>
+        <li>สร้าง validation scripts</li>
+        <li>แจ้ง errors อย่างชัดเจน</li>
+      </ul>
+    </div>
+    <div class="practice">
+      <h3>Organization</h3>
+      <ul>
+        <li>output ≠ skill folder</li>
+        <li>ใช้ examples/ folder</li>
+        <li>เก็บ core scripts เท่านั้น</li>
+        <li>ลบ temp files ทั้งหมด</li>
+      </ul>
+    </div>
+  </div>
+</div>
+</body>
+</html>

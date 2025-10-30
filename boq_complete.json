@@ -1,0 +1,619 @@
+{
+  "BOQ": [
+    {
+      "foundation_type": "ฐานรากแผ่",
+      "sections": [
+        {
+          "category": "งานโครงสร้าง",
+          "items": [
+            {
+              "name": "คอนกรีตโครงสร้าง 1:2:4",
+              "quantity": 47,
+              "unit": "ลบ.ม."
+            },
+            {
+              "name": "ทรายถม/วัสดุรองพื้น (โดยรวม)",
+              "quantity": 348,
+              "unit": "ลบ.ม."
+            },
+            {
+              "name": "ดิน/วัสดุถมกลับ (โดยรวม)",
+              "quantity": 497,
+              "unit": "ลบ.ม."
+            },
+            {
+              "name": "งานบดอัด/ปรับระดับ (โดยรวม)",
+              "quantity": 105,
+              "unit": "ลบ.ม."
+            },
+            {
+              "name": "ลวดผูกเหล็ก",
+              "quantity": 230,
+              "unit": "กก."
+            },
+            {
+              "name": "เหล็กเส้นกลม SR24 Ø6 mm",
+              "quantity": 519,
+              "unit": "กก."
+            },
+            {
+              "name": "เหล็กเส้นกลม SR24 Ø9 mm",
+              "quantity": 990,
+              "unit": "กก."
+            },
+            {
+              "name": "เหล็กข้ออ้อย SD40 Ø12 mm",
+              "quantity": 1555,
+              "unit": "กก."
+            },
+            {
+              "name": "เหล็กข้ออ้อย SD40 Ø16 mm",
+              "quantity": 1534,
+              "unit": "กก."
+            },
+            {
+              "name": "เหล็กข้ออ้อย SD40 Ø20 mm",
+              "quantity": 216,
+              "unit": "กก."
+            },
+            {
+              "name": "ตะแกรงไวร์เมช Ø4 @0.20 m",
+              "quantity": 148,
+              "unit": "ตร.ม."
+            },
+            {
+              "name": "เหล็ก C-Channel 125x65x6x8",
+              "quantity": 1019,
+              "unit": "กก."
+            },
+            {
+              "name": "เหล็ก C-Channel 125x50x20x3.2",
+              "quantity": 1214,
+              "unit": "กก."
+            }
+          ]
+        },
+        {
+          "category": "งานสถาปัตยกรรม / ประตูหน้าต่าง",
+          "items": [
+            {
+              "name": "ประตูไม้ HDF 0.80x2.00 ม.",
+              "quantity": 1,
+              "unit": "บาน"
+            },
+            {
+              "name": "ประตูห้องน้ำ PVC 0.70x2.00 ม.",
+              "quantity": 4,
+              "unit": "บาน"
+            },
+            {
+              "name": "หน้าต่างบานเลื่อน อลูมิเนียม 1.40x1.20 ม.",
+              "quantity": 4,
+              "unit": "บาน"
+            },
+            {
+              "name": "ช่องลม/บานเกล็ด 0.70x1.20 ม.",
+              "quantity": 9,
+              "unit": "บาน"
+            },
+            {
+              "name": "บานช่องแสง/ช่องเปิด 1.40x0.50 ม.",
+              "quantity": 3,
+              "unit": "บาน"
+            },
+            {
+              "name": "ช่องแสง 2.80x1.20 ม.",
+              "quantity": 5,
+              "unit": "บาน"
+            },
+            {
+              "name": "ประตู 1.40x2.05 ม.",
+              "quantity": 1,
+              "unit": "บาน"
+            }
+          ]
+        },
+        {
+          "category": "งานสุขาภิบาล - ระบายน้ำเสีย (PVC Class 8.5)",
+          "items": [
+            {
+              "name": "ท่อ PVC Class 8.5 Ø2\"",
+              "quantity": 60,
+              "unit": "ม."
+            },
+            {
+              "name": "ท่อ PVC Class 8.5 Ø2½\"",
+              "quantity": 16,
+              "unit": "ม."
+            },
+            {
+              "name": "ท่อ PVC Class 8.5 Ø4\"",
+              "quantity": 40,
+              "unit": "ม."
+            },
+            {
+              "name": "FCO Ø4\" (Floor Cleanout)",
+              "quantity": 2,
+              "unit": "ชุด"
+            },
+            {
+              "name": "RFD Ø2½\"",
+              "quantity": 3,
+              "unit": "ชุด"
+            },
+            {
+              "name": "Floor Drain Ø2\"",
+              "quantity": 4,
+              "unit": "ชุด"
+            },
+            {
+              "name": "P-Trap Ø2\"",
+              "quantity": 4,
+              "unit": "ชุด"
+            },
+            {
+              "name": "AVC Ø2\" (อากาศ/ระบายอากาศ)",
+              "quantity": 3,
+              "unit": "ชุด"
+            },
+            {
+              "name": "คอนเนคชัน/ข้อต่อ Ø2\"",
+              "quantity": 6,
+              "unit": "ชุด"
+            },
+            {
+              "name": "คอนเนคชัน/ข้อต่อ Ø2½\"",
+              "quantity": 3,
+              "unit": "ชุด"
+            },
+            {
+              "name": "คอนเนคชัน/ข้อต่อ Ø4\"",
+              "quantity": 3,
+              "unit": "ชุด"
+            }
+          ]
+        },
+        {
+          "category": "งานสุขาภิบาล - น้ำดี (PVC Class 13.5)",
+          "items": [
+            {
+              "name": "ท่อ PVC Class 13.5 Ø1/2\"",
+              "quantity": 4,
+              "unit": "ม."
+            },
+            {
+              "name": "ท่อ PVC Class 13.5 Ø3/4\"",
+              "quantity": 80,
+              "unit": "ม."
+            },
+            {
+              "name": "ชุดก๊อก/จุดใช้น้ำ Ø1/2\"",
+              "quantity": 2,
+              "unit": "จุด"
+            },
+            {
+              "name": "Stop Valve Ø1/2\"",
+              "quantity": 11,
+              "unit": "ตัว"
+            },
+            {
+              "name": "Ball Valve Ø1/2\"",
+              "quantity": 1,
+              "unit": "ตัว"
+            },
+            {
+              "name": "Ball Valve Ø3/4\"",
+              "quantity": 4,
+              "unit": "ตัว"
+            },
+            {
+              "name": "Check Valve Ø3/4\"",
+              "quantity": 1,
+              "unit": "ตัว"
+            },
+            {
+              "name": "Float Valve Ø1/2\"",
+              "quantity": 1,
+              "unit": "ตัว"
+            },
+            {
+              "name": "Gate Valve Ø3/4\"",
+              "quantity": 4,
+              "unit": "ตัว"
+            },
+            {
+              "name": "ถังเก็บน้ำ 1,000 ลิตร",
+              "quantity": 1,
+              "unit": "ใบ"
+            },
+            {
+              "name": "ปั๊มน้ำ 200W (ประมาณ)",
+              "quantity": 1,
+              "unit": "ตัว"
+            }
+          ]
+        },
+        {
+          "category": "งานไฟฟ้า",
+          "items": [
+            {
+              "name": "Load Center LP-12 45AT 2P IC 10kA (RCBO)",
+              "quantity": 1,
+              "unit": "ชุด"
+            },
+            {
+              "name": "Miniature CB 20AT 1P IC 6kA",
+              "quantity": 5,
+              "unit": "ชุด"
+            },
+            {
+              "name": "Miniature CB RCBO In30mA 20AT 1P IC 6kA",
+              "quantity": 2,
+              "unit": "ชุด"
+            },
+            {
+              "name": "Miniature CB RCBO In30mA 16AT 1P IC 6kA",
+              "quantity": 3,
+              "unit": "ชุด"
+            },
+            {
+              "name": "KWh Meter 15(45)A 1 Phase",
+              "quantity": 1,
+              "unit": "ชุด"
+            },
+            {
+              "name": "Ground System",
+              "quantity": 1,
+              "unit": "ชุด"
+            },
+            {
+              "name": "ท่อ uPVC Ø1\" (25 มม.)",
+              "quantity": 23,
+              "unit": "ม."
+            },
+            {
+              "name": "ท่อ uPVC Ø1/2\" (15 มม.)",
+              "quantity": 352,
+              "unit": "ม."
+            },
+            {
+              "name": "สาย IEC01 10 sq.mm (ประมาณ 10 เมตรต่อเส้น)",
+              "quantity": 50,
+              "unit": "ม."
+            },
+            {
+              "name": "สาย IEC01 4 sq.mm",
+              "quantity": 50,
+              "unit": "ม."
+            },
+            {
+              "name": "สาย IEC01 2.5 sq.mm",
+              "quantity": 700,
+              "unit": "ม."
+            },
+            {
+              "name": "สาย NYY 2.5 sq.mm",
+              "quantity": 25,
+              "unit": "ม."
+            },
+            {
+              "name": "อุปกรณ์และอะแดปเตอร์ไฟฟ้าอื่นๆ",
+              "quantity": 1,
+              "unit": "Lot"
+            },
+            {
+              "name": "โคมไฟ/หลอด/ชุดโคม (ระบุ Set)",
+              "quantity": 40,
+              "unit": "ชุด"
+            },
+            {
+              "name": "สวิตช์/ปลั๊ก 16A 250V (รวมแบบ 1 ช่อง/2 ช่อง)",
+              "quantity": 22,
+              "unit": "ชุด"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "foundation_type": "ฐานรากเสาเข็ม",
+      "sections": [
+        {
+          "category": "งานโครงสร้าง",
+          "items": [
+            {
+              "name": "คอนกรีตโครงสร้าง 1:2:4",
+              "quantity": 47,
+              "unit": "ลบ.ม."
+            },
+            {
+              "name": "ทรายถม/วัสดุรองพื้น (โดยรวม)",
+              "quantity": 348,
+              "unit": "ลบ.ม."
+            },
+            {
+              "name": "ดิน/วัสดุถมกลับ (โดยรวม)",
+              "quantity": 497,
+              "unit": "ลบ.ม."
+            },
+            {
+              "name": "งานบดอัด/ปรับระดับ (โดยรวม)",
+              "quantity": 105,
+              "unit": "ลบ.ม."
+            },
+            {
+              "name": "ลวดผูกเหล็ก",
+              "quantity": 230,
+              "unit": "กก."
+            },
+            {
+              "name": "เหล็กเส้นกลม SR24 Ø6 mm",
+              "quantity": 519,
+              "unit": "กก."
+            },
+            {
+              "name": "เหล็กเส้นกลม SR24 Ø9 mm",
+              "quantity": 980,
+              "unit": "กก."
+            },
+            {
+              "name": "เหล็กข้ออ้อย SD40 Ø12 mm",
+              "quantity": 1553,
+              "unit": "กก."
+            },
+            {
+              "name": "เหล็กข้ออ้อย SD40 Ø16 mm",
+              "quantity": 1534,
+              "unit": "กก."
+            },
+            {
+              "name": "เหล็กข้ออ้อย SD40 Ø20 mm",
+              "quantity": 216,
+              "unit": "กก."
+            },
+            {
+              "name": "ตะแกรงไวร์เมช Ø4 @0.20 m",
+              "quantity": 148,
+              "unit": "ตร.ม."
+            },
+            {
+              "name": "เหล็ก C-Channel 125x65x6x8",
+              "quantity": 1019,
+              "unit": "กก."
+            },
+            {
+              "name": "เหล็ก C-Channel 125x50x20x3.2",
+              "quantity": 1214,
+              "unit": "กก."
+            }
+          ]
+        },
+        {
+          "category": "งานสถาปัตยกรรม / ประตูหน้าต่าง",
+          "items": [
+            {
+              "name": "ประตูไม้ HDF 0.80x2.00 ม.",
+              "quantity": 1,
+              "unit": "บาน"
+            },
+            {
+              "name": "ประตูห้องน้ำ PVC 0.70x2.00 ม.",
+              "quantity": 4,
+              "unit": "บาน"
+            },
+            {
+              "name": "หน้าต่างบานเลื่อน อลูมิเนียม 1.40x1.20 ม.",
+              "quantity": 4,
+              "unit": "บาน"
+            },
+            {
+              "name": "ช่องลม/บานเกล็ด 0.70x1.20 ม.",
+              "quantity": 9,
+              "unit": "บาน"
+            }
+          ]
+        },
+        {
+          "category": "งานสุขาภิบาล - ระบายน้ำเสีย (PVC Class 8.5)",
+          "items": [
+            {
+              "name": "ท่อ PVC Class 8.5 Ø2\"",
+              "quantity": 60,
+              "unit": "ม."
+            },
+            {
+              "name": "ท่อ PVC Class 8.5 Ø2½\"",
+              "quantity": 16,
+              "unit": "ม."
+            },
+            {
+              "name": "ท่อ PVC Class 8.5 Ø4\"",
+              "quantity": 40,
+              "unit": "ม."
+            },
+            {
+              "name": "FCO Ø4\"",
+              "quantity": 2,
+              "unit": "ชุด"
+            },
+            {
+              "name": "RFD Ø2½\"",
+              "quantity": 3,
+              "unit": "ชุด"
+            },
+            {
+              "name": "Floor Drain Ø2\"",
+              "quantity": 4,
+              "unit": "ชุด"
+            },
+            {
+              "name": "P-Trap Ø2\"",
+              "quantity": 4,
+              "unit": "ชุด"
+            },
+            {
+              "name": "AVC Ø2\"",
+              "quantity": 3,
+              "unit": "ชุด"
+            },
+            {
+              "name": "คอนเนคชัน/ข้อต่อ Ø2\"",
+              "quantity": 6,
+              "unit": "ชุด"
+            },
+            {
+              "name": "คอนเนคชัน/ข้อต่อ Ø2½\"",
+              "quantity": 3,
+              "unit": "ชุด"
+            },
+            {
+              "name": "คอนเนคชัน/ข้อต่อ Ø4\"",
+              "quantity": 3,
+              "unit": "ชุด"
+            }
+          ]
+        },
+        {
+          "category": "งานสุขาภิบาล - น้ำดี (PVC Class 13.5)",
+          "items": [
+            {
+              "name": "ท่อ PVC Class 13.5 Ø1/2\"",
+              "quantity": 4,
+              "unit": "ม."
+            },
+            {
+              "name": "ท่อ PVC Class 13.5 Ø3/4\"",
+              "quantity": 80,
+              "unit": "ม."
+            },
+            {
+              "name": "ชุดก๊อก/จุดใช้น้ำ Ø1/2\"",
+              "quantity": 2,
+              "unit": "จุด"
+            },
+            {
+              "name": "Stop Valve Ø1/2\"",
+              "quantity": 11,
+              "unit": "ตัว"
+            },
+            {
+              "name": "Ball Valve Ø1/2\"",
+              "quantity": 1,
+              "unit": "ตัว"
+            },
+            {
+              "name": "Ball Valve Ø3/4\"",
+              "quantity": 4,
+              "unit": "ตัว"
+            },
+            {
+              "name": "Check Valve Ø3/4\"",
+              "quantity": 1,
+              "unit": "ตัว"
+            },
+            {
+              "name": "Float Valve Ø1/2\"",
+              "quantity": 1,
+              "unit": "ตัว"
+            },
+            {
+              "name": "Gate Valve Ø3/4\"",
+              "quantity": 4,
+              "unit": "ตัว"
+            },
+            {
+              "name": "ถังเก็บน้ำ 1,000 ลิตร",
+              "quantity": 1,
+              "unit": "ใบ"
+            },
+            {
+              "name": "ปั๊มน้ำ 200W (ประมาณ)",
+              "quantity": 1,
+              "unit": "ตัว"
+            }
+          ]
+        },
+        {
+          "category": "งานไฟฟ้า",
+          "items": [
+            {
+              "name": "Load Center LP-12 45AT 2P IC 10kA (RCBO)",
+              "quantity": 1,
+              "unit": "ชุด"
+            },
+            {
+              "name": "Miniature CB 20AT 1P IC 6kA",
+              "quantity": 5,
+              "unit": "ชุด"
+            },
+            {
+              "name": "Miniature CB RCBO In30mA 20AT 1P IC 6kA",
+              "quantity": 2,
+              "unit": "ชุด"
+            },
+            {
+              "name": "Miniature CB RCBO In30mA 16AT 1P IC 6kA",
+              "quantity": 3,
+              "unit": "ชุด"
+            },
+            {
+              "name": "KWh Meter 15(45)A 1 Phase",
+              "quantity": 1,
+              "unit": "ชุด"
+            },
+            {
+              "name": "Ground System",
+              "quantity": 1,
+              "unit": "ชุด"
+            },
+            {
+              "name": "ท่อ uPVC Ø1\" (25 มม.)",
+              "quantity": 23,
+              "unit": "ม."
+            },
+            {
+              "name": "ท่อ uPVC Ø1/2\" (15 มม.)",
+              "quantity": 352,
+              "unit": "ม."
+            },
+            {
+              "name": "สาย IEC01 10 sq.mm (ประมาณ 10 เมตรต่อเส้น)",
+              "quantity": 50,
+              "unit": "ม."
+            },
+            {
+              "name": "สาย IEC01 4 sq.mm",
+              "quantity": 50,
+              "unit": "ม."
+            },
+            {
+              "name": "สาย IEC01 2.5 sq.mm",
+              "quantity": 700,
+              "unit": "ม."
+            },
+            {
+              "name": "สาย NYY 2.5 sq.mm",
+              "quantity": 25,
+              "unit": "ม."
+            },
+            {
+              "name": "อุปกรณ์และอะแดปเตอร์ไฟฟ้าอื่นๆ",
+              "quantity": 1,
+              "unit": "Lot"
+            },
+            {
+              "name": "โคมไฟ/หลอด/ชุดโคม (ระบุ Set)",
+              "quantity": 40,
+              "unit": "ชุด"
+            },
+            {
+              "name": "สวิตช์/ปลั๊ก 16A 250V (รวมแบบ 1 ช่อง/2 ช่อง)",
+              "quantity": 22,
+              "unit": "ชุด"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
